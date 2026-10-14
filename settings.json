@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "your.server.ip",
-    "port": 25565,
+    "ip": VladimirVPG-BSRC.aternos.me,
+    "port": 53468,
     "version": "",
     "try-creative": false
   },
